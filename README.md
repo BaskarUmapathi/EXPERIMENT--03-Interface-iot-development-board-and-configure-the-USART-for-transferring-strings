@@ -130,7 +130,8 @@ PUTCHAR_PROTOTYPE
 
 ## Output screen shots of Serial port utility   :
  
- ![WhatsApp Image 2025-04-09 at 11 48 03_fa603256](https://github.com/user-attachments/assets/9cb6513d-df6e-43f5-b626-649bf28459d4)
+ <img width="1917" height="1075" alt="Screenshot 2026-08-01 145731" src="https://github.com/user-attachments/assets/b63a1d5e-5ac7-4c46-9de9-e90f9d11dc7e" />
+
 
  
  
